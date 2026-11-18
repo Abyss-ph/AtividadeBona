@@ -2,13 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -41,3 +41,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: fundo
+    uniqueID: 780498249
+    locked: 0
+  - name: plataformas
+    uniqueID: 1310693949
+    locked: 0
+  - name: player
+    uniqueID: 973234909
+    locked: 0
+  m_RenderingLayers:
+  - Default
